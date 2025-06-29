@@ -1,0 +1,26 @@
+a ᔑ     red     {"text":"ᔑ","color":"#991f33"}
+b ʖ    blue     {"text":"ʖ","color":"#428ec7"}
+c ᓵ     yellow  {"text":"ᓵ","color":"#e9a93a"}
+d ↸     green   {"text":"↸","color":"#7ecb1b"}
+e ᒷ    blue     {"text":"ᒷ","color":"#428ec7"}
+f ⎓     red     {"text":"⎓","color":"#991f33"}
+g ⊣    blue     {"text":"⊣","color":"#428ec7"}
+h ⍑    blue     {"text":"⍑","color":"#428ec7"}
+i ╎     green   {"text":"╎","color":"#7ecb1b"}
+j ⋮    blue     {"text":"⋮","color":"#428ec7"}
+k ꖌ    red     {"text":"ꖌ","color":"#991f33"}
+l ꖎ   blue     {"text":"ꖎ","color":"#428ec7"}
+m ᒲ     yellow  {"text":"ᒲ","color":"#e9a93a"}
+n リ    green   {"text":"リ","color":"#7ecb1b"}
+o 𝙹     yellow  {"text":"𝙹","color":"#e9a93a"}
+p !¡   blue     {"text":"!¡","color":"#428ec7"}
+q ᑑ     yellow  {"text":"ᑑ","color":"#e9a93a"}
+r ∷    blue     {"text":"∷","color":"#428ec7"}
+s ᓭ     red     {"text":"ᓭ","color":"#991f33"}
+t ℸ ̣   green    {"text":"ℸ ̣","color":"#7ecb1b"}
+u ⚍    yellow  {"text":"⚍","color":"#e9a93a"}
+v ⍊     red     {"text":"⍊","color":"#991f33"}
+w ∴     yellow  {"text":"∴","color":"#e9a93a"}
+x  ̇/    green   {"text":" ̇/","color":"#7ecb1b"}
+y ||    red     {"text":"||","color":"#991f33"}
+z ⨅     yellow {"text":"⨅","color":"#e9a93a"}

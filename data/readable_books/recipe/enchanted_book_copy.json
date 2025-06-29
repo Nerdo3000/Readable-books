@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "minecraft:enchanted_book",
+  "material": "minecraft:writable_book",
+  "result": {
+    "id": "minecraft:written_book",
+    "components": {
+      "minecraft:item_model": "minecraft:enchanted_book",
+      "custom_data": {"cost":-1,
+                      "readable":false},
+      "repair_cost": 1000,
+      "consumable": {
+        "animation": "none",
+        "consume_seconds": 1000000000000000,
+        "has_consume_particles": false
+      },
+      "food": {
+        "can_always_eat": true,
+        "nutrition": 0,
+        "saturation": 0
+      }
+    },
+    "count": 1
+  }
+}

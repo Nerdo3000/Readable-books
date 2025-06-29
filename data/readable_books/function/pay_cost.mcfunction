@@ -1,0 +1,6 @@
+execute as @s if data entity @s SelectedItem.components."minecraft:custom_data".cost store result score @s readable_books.pay_cost_need run data get entity @s SelectedItem.components."minecraft:custom_data".cost 1 
+execute as @s store result score @s readable_books.pay_cost_have run xp query @s levels
+
+execute as @s store result storage minecraft:cost_slot cost int 1 run scoreboard players get @s readable_books.pay_cost_need
+execute as @s if data entity @s SelectedItem.components."minecraft:custom_data".cost if score @s readable_books.pay_cost_have >= @s readable_books.pay_cost_need if score @s readable_books.pay_cost_need matches 1.. run function readable_books:pay_cost_slot with storage minecraft:cost_slot
+execute as @s if data entity @s SelectedItem.components."minecraft:custom_data".cost if score @s readable_books.pay_cost_have <= @s readable_books.pay_cost_need if score @s readable_books.pay_cost_need matches 1.. at @s if predicate readable_books:20percent run playsound minecraft:block.eyeblossom.open master @a ~ ~ ~ 0.5 1

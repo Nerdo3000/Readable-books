@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"quick charge is an arcane inscription","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a whispered blessing upon the crossbow","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a pact with the forces of speed","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it grants the wielder the ability to load and fire with astonishing swiftness","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

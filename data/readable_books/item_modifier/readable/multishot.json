@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"multishot is a whispered pact with chaos","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" three arrows fly","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" but the crossbow wearies","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s a dance with destruction","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a gamble of power against durability","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" each shot is a storm","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a risk for greater reward","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

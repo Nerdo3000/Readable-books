@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"impaling transforms your trident into a weapon of aquatic annihilation","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s not merely increased damage","font": "minecraft:alt"}, {"text":";","font": "minecraft:default"}, {"text":" it","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s a focused surge of energy that pierces the very essence of aquatic creatures","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" each strike is a precise blow","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" exploiting the weaknesses of these beings","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" amplifying the trident","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s power against them","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"fire protection is an arcane ward woven into the very fabric of the armor","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it deflects the fiery kiss of flames","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" weaving a protective barrier of resistant energy around the wearer","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the heat is not merely lessened","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" but repelled","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a shimmering shield of arcane energy that dances and shifts","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" absorbing the inferno","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s touch","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

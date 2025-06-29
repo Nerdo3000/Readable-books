@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+ {"text":"bane of arthropods","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a dark enchantment whispered upon blade","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" axe","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" or mace","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" empowers the wielder to cleave through chitinous carapaces with unholy might","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" while simultaneously weaving a spell of crippling slowness upon the insectoid hordes","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" leaving them writhing in agonizing immobility as they fall before your wrath","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"knockback is an arcane inscription","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a whispered invocation of physical force","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" etched into the very blade","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the sword becomes a conduit of concussive energy","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" sending foes reeling with each strike","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the wielder","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s blows gain a supernatural impact","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" amplifying the knockback effect and sending enemies flying","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

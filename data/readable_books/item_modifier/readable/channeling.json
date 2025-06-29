@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"channeling is a conduit of celestial fury","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" an enchantment that empowers the trident to summon a devastating bolt of lightning from the storm","font": "minecraft:alt"}, {"text":"-","font": "minecraft:default"}, {"text":"wracked heavens","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" striking down any foe or lightning rod it encounters during a thunderstorm","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the wielder becomes a vessel for the storm","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s raw power","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" unleashing its wrath upon their enemies with each thrown weapon","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

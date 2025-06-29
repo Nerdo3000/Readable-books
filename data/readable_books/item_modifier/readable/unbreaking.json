@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"unbreaking","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" an enchantment of preservation","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" is woven into items to fortify their resilience","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" with each use","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" there exists a chance for the item to resist the ravages of time","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" to defy the natural decay of its form","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" this grants the item an extended lifespan","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a testament to the enchantment","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s power to ward off the inevitable erosion of its essence","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

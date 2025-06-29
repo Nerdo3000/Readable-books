@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"feather falling is an arcane enchantment","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a whispered pact with gravity itself","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" imbued within the boots","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" it allows the wearer to fall like a feather","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" cushioning their descent","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the very essence of lightness is woven into the footwear","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" granting a soft landing even from the greatest heights","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it is not merely damage reduced","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" but the very force of gravity itself","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" subtly altered for the wearer","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s benefit","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

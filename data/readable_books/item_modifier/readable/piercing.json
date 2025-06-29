@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"piercing is a whispered blessing upon the arrow","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" allowing it to defy the laws of the physical realm","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it grants the arrow the power to pass through entities","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" striking multiple foes in a single","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" devastating flight","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the crossbow becomes a conduit of pure force","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" channeling the arcane energy that allows the arrow to become an unstoppable force","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

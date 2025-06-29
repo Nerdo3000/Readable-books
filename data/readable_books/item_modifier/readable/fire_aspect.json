@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"fire aspect is an arcane inscription","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a weaving of fire and steel","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" imbued within the blade","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" it sets alight any foe it strikes","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it is not merely a burning touch","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" but a summoning of elemental fury","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a scorching brand that clings to the enemy","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" consuming them with infernal flames","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

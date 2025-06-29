@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"soul speed","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" an enchantment of arcane origin","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" imbues boots with the power to traverse soul sand and soul soil with unnatural swiftness","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" this is achieved through a subtle resonance with the ethereal energies inherent within these mystical grounds","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the enchantment facilitates rapid movement","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" drawing upon the latent power of the souls embedded within the terrain","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

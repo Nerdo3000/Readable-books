@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"sweeping edge","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a mystical enchantment for swords","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" enhances the sweep attack","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" transforming the wielder","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s blade into a whirlwind of destruction","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" this enchantment inflicts increased damage upon all entities caught within the sweeping arc","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" save for the primary target","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

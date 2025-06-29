@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"silk touch","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" an enchantment of delicate grace","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" bestows upon tools the power to harvest blocks in their purest form","font": "minecraft:alt"}, {"text":"!","font": "minecraft:default"}, {"text":" when applied","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" it transcends the fragmentation of resources","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" granting the wielder the intact object itself","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a testament to the art of preservation","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"wind burst","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" an enchantment for maces","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" unleashes the fury of the winds with each earth","font": "minecraft:alt"}, {"text":"-","font": "minecraft:default"}, {"text":"shattering smash","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" upon impact","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a powerful upward knockback effect is unleashed","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" sending foes soaring skyward","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" unlike the gentler touch of wind charges","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" this enchantment offers no solace against the perils of the fall","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it is a force of raw power","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a tempestuous surge that leaves its mark upon the battlefield","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

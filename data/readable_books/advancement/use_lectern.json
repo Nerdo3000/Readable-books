@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "lectern": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:lectern"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "lectern"
+    ]
+  ],
+  "rewards": {
+    "function": "readable_books:click_lectern"
+  }
+}

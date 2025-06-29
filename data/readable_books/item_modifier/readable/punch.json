@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"punch is an arcane inscription","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a whispered blessing upon the bow","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a pact with the forces of displacement","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it grants the wielder the ability to unleash arrows that send targets reeling","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" each shot is a forceful expulsion","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" sending enemies staggering","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

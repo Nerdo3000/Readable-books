@@ -1,0 +1,89 @@
+$execute if score @s readable_books.trigger_debug matches 1 run say Made $(slot).$(n) readable with $(color)
+
+$execute as @s run item modify entity @s $(slot).$(n) readable_books:readable$(color)/readable
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:mending"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/mending
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:sharpness"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/sharpness
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:protection"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/protection
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:projectile_protection"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/projectile_protection
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:blast_protection"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/blast_protection
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:fire_protection"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/fire_protection
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:aqua_affinity"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/aqua_affinity
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:respiration"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/respiration
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:bane_of_arthropods"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/bane_of_arthropods
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:binding_curse"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/binding_curse
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:vanishing_curse"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/vanishing_curse
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:breach"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/breach
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:density"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/density
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:channeling"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/channeling
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:depth_strider"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/depth_strider
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:efficiency"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/efficiency
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:feather_falling"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/feather_falling
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:fire_aspect"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/fire_aspect
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:flame"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/flame
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:fortune"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/fortune
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:frost_walker"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/frost_walker
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:impaling"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/impaling
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:infinity"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/infinity
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:knockback"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/knockback
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:looting"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/looting
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:loyalty"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/loyalty
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:luck_of_the_sea"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/luck_of_the_sea
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:lure"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/lure
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:multishot"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/multishot
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:piercing"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/piercing
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:power"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/power
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:punch"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/punch
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:quick_charge"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/quick_charge
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:riptide"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/riptide
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:silk_touch"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/silk_touch
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:smite"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/smite
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:soul_speed"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/soul_speed
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:sweeping_edge"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/sweeping_edge
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:swift_sneak"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/swift_sneak
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:thorns"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/thorns
+ 
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:unbreaking"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/unbreaking
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:wind_burst"}]] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/wind_burst
+
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:written_book_content~{pages:{size:0}}] run item modify entity @s $(slot).$(n) readable_books:readable$(color)/readable_unknown

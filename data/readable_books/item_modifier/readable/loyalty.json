@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"loyalty is an arcane inscription","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a whispered oath of return","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" etched into the trident","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s core","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the trident becomes a loyal servant","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a vessel of unwavering devotion","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" always returning to its owner","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the wielder","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s will becomes its guiding force","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" drawing the trident back from the depths of the battlefield","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

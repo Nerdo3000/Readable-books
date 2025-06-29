@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "inv": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:enchanted_book"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "inv"
+    ]
+  ],
+  "rewards": {
+    "function": "readable_books:read"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"depth strider is an enchantment of aquatic grace","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a subtle weaving of arcane energies that reduces the resistance of water against the wearer","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s boots","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the wearer glides through the depths","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" their movements fluid and unhindered","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the very currents seem to yield to their passage","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" as if guided by an unseen hand","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+  ],
+  "mode": "append"
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": {
+      "readable": {},
+      "cost": 0
+    }
+  },
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:repair_cost": 5,
+      "minecraft:lore": [],
+      "consumable": {
+        "animation": "none",
+        "consume_seconds": 100000000000000,
+        "has_consume_particles": false
+      }
+    }
+  }
+]
