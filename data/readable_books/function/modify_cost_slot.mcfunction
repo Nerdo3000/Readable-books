@@ -1,2 +1,2 @@
-$say $(n) $(slot) $(cost)
+$execute if data storage readable_books:settings {debug:1} say $(n) $(slot) $(cost)
 $execute as @s run item modify entity @s $(slot).$(n) [{function:"minecraft:set_custom_data",tag:{cost:$(cost)}},{function:"minecraft:set_lore",lore:[{text:"You can't use this book yet!",color:"#ff0000",shadow_color:16711680,bold:1b,italic:0b},{text:"It costs $(cost) levels to unlock!",color:"#ff0000",shadow_color:16711680,bold:1b,italic:0b},{text:"If you have enough levels, ",color:"#ed0c0c",shadow_color:16711680,bold:1b,italic:0b},{text:"USE the item to unlock it.",color:"#ff0000",shadow_color:16056320,bold:1b,italic:0b}],mode:"replace_all"}]

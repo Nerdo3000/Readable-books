@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"B","font": "minecraft:default"}, {"text":"last ","font": "minecraft:alt"}, {"text":"P","font": "minecraft:default"}, {"text":"rotection is a protective enchantment","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" woven into armor","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" that diminishes the devastating impact of explosions and the dazzling","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" yet dangerous","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" displays of fireworks","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"blast protection is a protective enchantment","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" woven into armor","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" that diminishes the devastating impact of explosions and the dazzling","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" yet dangerous","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" displays of fireworks","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

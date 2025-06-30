@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"F","font": "minecraft:default"}, {"text":"ortune is an arcane blessing","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" granting the wielder a heightened ability to pluck forth the bounty of the earth","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" increasing the likelihood of extracting more treasures from the depths","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"fortune is an arcane blessing","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" granting the wielder a heightened ability to pluck forth the bounty of the earth","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" increasing the likelihood of extracting more treasures from the depths","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

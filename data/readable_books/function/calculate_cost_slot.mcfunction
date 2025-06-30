@@ -1,4 +1,4 @@
-$execute if score @s readable_books.trigger_debug matches 1 run say Made $(slot).$(n) Calculate Cost
+$execute if data storage readable_books:settings {debug:1} run say Made $(slot).$(n) Calculate Cost
 
 execute as @s run scoreboard players set @s readable_books.cost_counter 0
 

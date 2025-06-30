@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"C","font": "minecraft:default"}, {"text":"urse of ","font": "minecraft:alt"}, {"text":"B","font": "minecraft:default"}, {"text":"inding fuses the cursed item to its armor slot","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" rendering it irremovable","font": "minecraft:alt"}, {"text":"—","font": "minecraft:default"}, {"text":"a testament to ill fortune and inescapable confinement","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"curse of binding fuses the cursed item to its armor slot","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" rendering it irremovable","font": "minecraft:alt"}, {"text":"—","font": "minecraft:default"}, {"text":"a testament to ill fortune and inescapable confinement","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

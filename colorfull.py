@@ -186,7 +186,7 @@ for file_name in todo_files:
     file_orig_handle = open("./readable_texts"+ (str(file_name).removeprefix("./data/readable_books/item_modifier/readable")).removesuffix("json")+"txt", "r")
     file_orig_text = file_orig_handle.readline()
 
-    substring = str(file_orig_text)
+    substring = str(file_orig_text).lower()
 
 
     while substring[0] == " ":

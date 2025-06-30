@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"E","font": "minecraft:default"}, {"text":"fficiency is an arcane inscription","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" quickening the wielder","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s hand","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" and the tool itself","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" as it interacts with the world","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"T","font": "minecraft:default"}, {"text":"he rock yields swiftly to the enchanted tool","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" and the wood shatters at an accelerated pace","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"efficiency is an arcane inscription","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" quickening the wielder","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s hand","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" and the tool itself","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" as it interacts with the world","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the rock yields swiftly to the enchanted tool","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" and the wood shatters at an accelerated pace","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

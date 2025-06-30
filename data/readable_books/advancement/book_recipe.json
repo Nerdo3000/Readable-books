@@ -24,8 +24,8 @@
     ]
   ],
   "rewards": {
-    "recipes": [
-      "readable_books:enchanted_book_copy"
-    ]
+    "function": "readable_books:advancement_has_books",
+    "recipes": [],
+    "experience": 0
   }
 }

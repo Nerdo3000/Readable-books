@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"L","font": "minecraft:default"}, {"text":"ooting is an arcane blessing","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a weaving of fate and chance into the blade","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"I","font": "minecraft:default"}, {"text":"t grants the wielder a heightened ability to pluck forth the bounty of the slain","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" increasing the likelihood of receiving more treasures from fallen foes","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"looting is an arcane blessing","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a weaving of fate and chance into the blade","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it grants the wielder a heightened ability to pluck forth the bounty of the slain","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" increasing the likelihood of receiving more treasures from fallen foes","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

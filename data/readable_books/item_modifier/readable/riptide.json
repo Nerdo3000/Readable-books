@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"T","font": "minecraft:default"}, {"text":"hrough the mystic union of trident and tide","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"R","font": "minecraft:default"}, {"text":"iptide empowers the wielder with aquatic grace","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" transforming the weapon into a conduit for the ocean","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s untamed currents","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" launching them through water or rain with a surge of elemental might","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"through the mystic union of trident and tide","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" riptide empowers the wielder with aquatic grace","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" transforming the weapon into a conduit for the ocean","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s untamed currents","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" launching them through water or rain with a surge of elemental might","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

@@ -1,4 +1,4 @@
-$execute if score @s readable_books.trigger_debug matches 1 run say Made $(slot).$(n) readable 
+$execute if data storage readable_books:settings {debug:1} run say Made $(slot).$(n) readable 
 
 $execute as @s run item modify entity @s $(slot).$(n) readable_books:readable/readable
 

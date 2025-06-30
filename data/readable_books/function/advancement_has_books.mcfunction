@@ -1,0 +1,1 @@
+scoreboard players set @s readable_books.has_book 1

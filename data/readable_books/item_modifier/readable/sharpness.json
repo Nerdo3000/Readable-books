@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"S","font": "minecraft:default"}, {"text":"harpness enhances the weapon","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s destructive power","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" it is a refinement of the strike","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a focusing of energy","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a channeling of the wielder","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s skill into a single","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" decisive point","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"sharpness enhances the weapon","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s destructive power","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" it is a refinement of the strike","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a focusing of energy","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a channeling of the wielder","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s skill into a single","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" decisive point","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

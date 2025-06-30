@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"R","font": "minecraft:default"}, {"text":"espiration is a whispered pact with the ","font": "minecraft:alt"}, {"text":"U","font": "minecraft:default"}, {"text":"ndines","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" an invocation of the ancient currents","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"I","font": "minecraft:default"}, {"text":"t is a weaving of hydric energies","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a binding of the ethereal breath of the deep with the mortal form","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"respiration is a whispered pact with the undines","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" an invocation of the ancient currents","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it is a weaving of hydric energies","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a binding of the ethereal breath of the deep with the mortal form","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

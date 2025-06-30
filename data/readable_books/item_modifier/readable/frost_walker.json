@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"F","font": "minecraft:default"}, {"text":"rost ","font": "minecraft:alt"}, {"text":"W","font": "minecraft:default"}, {"text":"alker is a pact with the winter","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s embrace","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" as when the wearer treads upon water","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" the liquid yields to their presence","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" freezing into a crystalline path of frosted ice","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"I","font": "minecraft:default"}, {"text":"t grants immunity against the flames of campfires and the molten wrath of magma","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"frost walker is a pact with the winter","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s embrace","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" as when the wearer treads upon water","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" the liquid yields to their presence","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" freezing into a crystalline path of frosted ice","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it grants immunity against the flames of campfires and the molten wrath of magma","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

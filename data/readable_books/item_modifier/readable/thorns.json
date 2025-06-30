@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"","font": "minecraft:alt"}, {"text":"T","font": "minecraft:default"}, {"text":"horns is inscribed upon armor to unleash a measure of the attacker","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s own force upon them","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"E","font": "minecraft:default"}, {"text":"ach strike","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a chance exists for the attacker to suffer damage","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a consequence for their aggression","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"thorns is inscribed upon armor to unleash a measure of the attacker","font": "minecraft:alt"}, {"text":"'","font": "minecraft:default"}, {"text":"s own force upon them","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" each strike","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a chance exists for the attacker to suffer damage","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a consequence for their aggression","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }
