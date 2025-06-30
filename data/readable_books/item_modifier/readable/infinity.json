@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"infinity is an arcane blessing","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a weaving of fate and chance into the very essence of the bow","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it grants the wielder an endless supply of standard arrows","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a never","font": "minecraft:alt"}, {"text":"-","font": "minecraft:default"}, {"text":"ending stream of projectiles that flow forth from the quiver","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the bow becomes a conduit of endless potential","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a means to unleash a barrage of arrows without the worry of depletion","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"","font": "minecraft:alt"}, {"text":"I","font": "minecraft:default"}, {"text":"nfinity is an arcane blessing","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" granting the wielder an endless supply of standard arrows","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a never","font": "minecraft:alt"}, {"text":"-","font": "minecraft:default"}, {"text":"ending stream of projectiles that flow forth from the quiver","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"T","font": "minecraft:default"}, {"text":"he bow becomes a mean to unleash a barrage of arrows without the worry of depletion","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

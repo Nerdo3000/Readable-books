@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"luck of the sea is a mystical gift","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a touch of the arcane that weaves its way into the very essence of your fishing rod","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it grants the wielder a heightened chance to unearth a greater bounty from the watery depths","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the rod becomes a vessel of fortune","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a means to increase the yield of each cast","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"","font": "minecraft:alt"}, {"text":"L","font": "minecraft:default"}, {"text":"uck of the ","font": "minecraft:alt"}, {"text":"S","font": "minecraft:default"}, {"text":"ea is a mystical gift","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" granting the wielder a heightened chance to unearth a greater bounty from the watery depths","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"T","font": "minecraft:default"}, {"text":"he rod becomes a vessel of fortune","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a means to increase the yield of each cast","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"fortune is an arcane blessing","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a weaving of fate and chance into the very fabric of the tool","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" it grants the wielder a heightened ability to pluck forth the bounty of the earth","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" increasing the likelihood of extracting more treasures from the depths","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the tool becomes a conduit of prosperity","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a means to coax forth hidden riches and amplify the yield of each strike","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"","font": "minecraft:alt"}, {"text":"F","font": "minecraft:default"}, {"text":"ortune is an arcane blessing","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" granting the wielder a heightened ability to pluck forth the bounty of the earth","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" increasing the likelihood of extracting more treasures from the depths","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

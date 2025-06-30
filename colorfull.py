@@ -48,6 +48,9 @@ todo_files = []
 for file in os.listdir(dire):
     todo_files.append(dire+"/"+file)
 
+todo_files.remove(dire+"/"+"readable.json")
+todo_files.remove(dire+"/"+"readable_unknown.json")
+
 #print(todo_files, len(todo_files))
 
 
@@ -100,6 +103,7 @@ for file_name in todo_files:
         else:
             new_string_list.append(str('{"text":"'+ str(build_up) + '","font": "minecraft:alt"}, '))
             new_string_list.append(str('{"text":"'+ str(substring[idx]) + '","font": "minecraft:default"}, '))
+        idx += 1
         """
 """
         if not substring[idx] in alpha: 
@@ -108,8 +112,8 @@ for file_name in todo_files:
             new_string_list.append(str('{"text":"'+ str(substring[idx]) + '","font": "minecraft:alt"}, '))
         """
 """
-        idx += 1
-    
+
+        
     new_string = ""
 
     for sub in new_string_list:
@@ -125,6 +129,7 @@ for file_name in todo_files:
     file_handle.close()
 """
 
+"""
 for i in range(30):
     substring = input("Next\n").lower()
 
@@ -155,12 +160,6 @@ for i in range(30):
             new_string_list.append(str('{"text":"'+ str(build_up) + '","font": "minecraft:alt"}, '))
             new_string_list.append(str('{"text":"'+ str(substring[idx]) + '","font": "minecraft:default"}, '))
             build_up = ""
-        """
-        if not substring[idx] in alpha: 
-            new_string_list.append(str('{"text":"'+ str(substring[idx]) + '","font": "minecraft:default"}, '))
-        if substring[idx] in alpha: 
-            new_string_list.append(str('{"text":"'+ str(substring[idx]) + '","font": "minecraft:alt"}, '))
-        """
         idx += 1
     
     new_string = ""
@@ -178,3 +177,68 @@ for i in range(30):
     print(new_string)
     print()
     print()
+"""
+
+for file_name in todo_files:
+    file_handle = open(file_name, "r")
+    contents = file_handle.readlines()
+
+    file_orig_handle = open("./readable_texts"+ (str(file_name).removeprefix("./data/readable_books/item_modifier/readable")).removesuffix("json")+"txt", "r")
+    file_orig_text = file_orig_handle.readline()
+
+    substring = str(file_orig_text)
+
+
+    while substring[0] == " ":
+        substring = substring.removeprefix(" ")
+    substring = substring.removesuffix('\n')
+    substring = substring.removeprefix('"text"')
+    while substring[0] == " ":
+        substring = substring.removeprefix(" ")
+    substring = substring.removeprefix(':')
+    while substring[0] == " ":
+        substring = substring.removeprefix(" ")
+    substring = substring.removeprefix('"')
+    substring = substring.removesuffix('",')
+
+    print(substring)
+
+    
+
+    new_string_list = []
+
+    idx = 0
+
+    build_up = ""
+
+    while (idx+1) <= len(substring):
+        if substring[idx] in alpha: 
+            build_up += substring[idx]
+        else:
+            new_string_list.append(str('{"text":"'+ str(build_up) + '","font": "minecraft:alt"}, '))
+            new_string_list.append(str('{"text":"'+ str(substring[idx]) + '","font": "minecraft:default"}, '))
+            build_up = ""
+        idx += 1
+    
+    new_string = ""
+
+
+    for sub in new_string_list:
+        new_string += sub
+
+    new_string = new_string.removesuffix("\n")
+    while new_string[-1] == " ":
+        new_string = new_string.removesuffix(" ")
+    new_string = new_string.removesuffix(",")
+    new_string += "]\n"
+
+    file_orig_handle.close()
+    file_handle.close()
+
+    contents[4] = new_string
+
+    print(contents)
+
+    file_handle = open(file_name, "w")
+
+    file_handle.writelines(contents)

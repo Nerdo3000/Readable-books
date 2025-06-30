@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"protection is a whispered blessing upon your armor","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a shield against the storm","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" this enchantment lessens the impact of all attacks","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" turning your armor into a fortress","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"","font": "minecraft:alt"}, {"text":"P","font": "minecraft:default"}, {"text":"rotection is a whispered blessing upon your armor","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" a shield against the storm","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"T","font": "minecraft:default"}, {"text":"his enchantment lessens the impact of all attacks","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" turning your armor into a fortress","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }

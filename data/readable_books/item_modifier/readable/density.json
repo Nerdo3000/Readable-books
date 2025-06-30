@@ -2,7 +2,7 @@
   "function": "minecraft:set_written_book_pages",
   "pages": [
     [
-{"text":"density is an arcane enchantment","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" imbuing the mace with the weight of mountains","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" each smash attack unleashes a concentrated force","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" amplifying the destructive potential of the blow","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
+{"text":"","font": "minecraft:alt"}, {"text":"D","font": "minecraft:default"}, {"text":"ensity is an arcane enchantment","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" imbuing the mace with the weight of mountains","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"E","font": "minecraft:default"}, {"text":"ach smash attack unleashes a concentrated force","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" amplifying the destructive potential of the blow","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}]
   ],
   "mode": "append"
 }
