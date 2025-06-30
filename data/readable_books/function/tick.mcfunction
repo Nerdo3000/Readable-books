@@ -1,14 +1,13 @@
 
 scoreboard players reset @a readable_books.distance_from_start
 execute as @a run function readable_books:enchant_all
-execute as @a unless score @s readable_books.block_use_action matches 1 if score @s readable_books.trigger_colorfull_glyphs matches 0 run function readable_books:make_readable_all
-execute as @a unless score @s readable_books.block_use_action matches 1 if score @s readable_books.trigger_colorfull_glyphs matches 1 run function readable_books:make_readable_all_color
+execute as @a unless score @s readable_books.block_use_action matches 1 run function readable_books:make_readable_all
 execute as @a at @s anchored eyes positioned ^ ^ ^ store result score @s readable_books.looking_at run function readable_books:raycast
 #execute as @a if score @s readable_books.looking_at matches 1 run say LECTERN
 execute as @a if score @s readable_books.looking_at matches 1 run function readable_books:read
 #execute as @a if score @s readable_books.looking_at matches 2 run say ANVIL
-execute as @a if score @s readable_books.looking_at matches 2 if score @s readable_books.trigger_colorfull_glyphs matches 0 run function readable_books:make_readable_force
-execute as @a if score @s readable_books.looking_at matches 2 if score @s readable_books.trigger_colorfull_glyphs matches 1 run function readable_books:make_readable_force_color
+execute as @a if score @s readable_books.looking_at matches 2 run function readable_books:make_readable_force
+
 
 execute as @a run function readable_books:calculate_cost_all
 
