@@ -21,3 +21,7 @@ execute as @a if data storage readable_books:settings {craft_copy:1} if score @s
 
 execute as @a unless score @s readable_books.current_slot = @s readable_books.current_slot_old run function readable_books:changed_slot_n
 execute as @a store result score @s readable_books.current_slot run data get entity @s SelectedItemSlot
+
+
+execute unless data storage readable_books:settings debug run data modify storage readable_books:settings debug set value 0
+execute unless data storage readable_books:settings craft_copy run data modify storage readable_books:settings craft_copy set value 1
