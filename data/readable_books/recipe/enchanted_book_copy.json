@@ -9,11 +9,12 @@
       "minecraft:item_model": "minecraft:enchanted_book",
       "custom_data": {"cost":-1,
                       "readable":false},
-      "repair_cost": 1000,
+      "repair_cost": 2147483647,
       "consumable": {
         "animation": "none",
         "consume_seconds": 1000000000000000,
-        "has_consume_particles": false
+        "has_consume_particles": false,
+        "sound": {"sound_id": "minecraft:item.book.page_turn", "range": 0}
       },
       "food": {
         "can_always_eat": true,

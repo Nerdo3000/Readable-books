@@ -10,8 +10,10 @@ execute as @a if score @s readable_books.looking_at matches 2 run function reada
 
 execute as @a run function readable_books:calculate_cost_all
 
-execute as @a if data entity @s SelectedItem.components."minecraft:custom_data".cost store result score @s readable_books.pay_cost_need run data get entity @s SelectedItem.components."minecraft:custom_data".cost 1 
-execute as @a if data entity @s SelectedItem.components."minecraft:custom_data".cost if score @s readable_books.pay_cost_need matches 1.. at @s run particle minecraft:enchant ~ ~1.5 ~ 1 1 1 0.2 5 normal @a
+#########0.37
+execute as @a if items entity @s weapon.mainhand *[!custom_data~{cost:0b}] store result score @s readable_books.pay_cost_need run data get entity @s SelectedItem.components."minecraft:custom_data".cost 1 
+execute as @a if items entity @s weapon.mainhand *[!custom_data~{cost:0b}] if score @s readable_books.pay_cost_need matches 1.. at @s run particle minecraft:enchant ~ ~1.5 ~ 1 1 1 0.2 5 normal @a
+execute as @a unless items entity @s weapon.mainhand *[!custom_data~{cost:0b}] run scoreboard players set @s readable_books.pay_cost_need 2147483647
 
 execute as @a if data storage readable_books:settings {craft_copy:0} run advancement revoke @a only readable_books:book_recipe
 execute as @a if data storage readable_books:settings {craft_copy:0} run recipe take @a readable_books:enchanted_book_copy

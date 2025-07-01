@@ -12,7 +12,8 @@
     "minecraft:consumable": {
       "consume_seconds": 0.5,
       "animation": "none",
-      "has_consume_particles": false
+      "has_consume_particles": false,
+      "sound": {"sound_id": "minecraft:item.book.page_turn", "range": 0}
     },
     "minecraft:tooltip_display": {
       "hidden_components": [
