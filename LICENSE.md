@@ -13,7 +13,7 @@ PERMITTED USES
 
 	- You are permitted to use this Datapack as part of for-profit endeavors such as servers, as long as the other guidelines of this License have been followed, appropriate credit has been given, and as long as you have not been specifically prohibited from doing so.
 
-  	- You are permitted to use parts (e.g. SINGLE scripts, structures, concepts, etc...) for personal use or for-profit endeavors. You are however not permitted to copy the DataPack as a whole, or more than 60% of it. It is apreciated, but not required, to give credit.
+  	- You are permitted to use parts (e.g. SINGLE scripts, structures, concepts, etc...) for personal use or for-profit endeavors. You are however not permitted to copy the DataPack as a whole, or more than 30% of it. It is apreciated, but not required, to give credit.
 
 
 PROHIBITED USES
