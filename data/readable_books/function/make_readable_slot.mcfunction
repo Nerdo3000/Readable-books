@@ -86,4 +86,4 @@ $execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[
 
 $execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:wind_burst"}]] run item modify entity @s $(slot).$(n) readable_books:readable/wind_burst
 
-$execute as @s if items entity @s $(slot).$(n) *[minecraft:written_book_content~{pages:{size:0}}] run item modify entity @s $(slot).$(n) readable_books:readable/readable_unknown
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:written_book_content~{pages:{}}] run item modify entity @s $(slot).$(n) readable_books:readable/readable_unknown

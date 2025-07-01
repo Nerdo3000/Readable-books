@@ -1,34 +1,8 @@
 {
-  "function": "minecraft:set_components",
-  "components": {
-    "minecraft:rarity": "uncommon",
-    "minecraft:max_stack_size": 1,
-    "minecraft:item_model": "minecraft:enchanted_book",
-    "minecraft:food": {
-      "nutrition": 0,
-      "saturation": 0,
-      "can_always_eat": true
-    },
-    "minecraft:consumable": {
-      "consume_seconds": 0.5,
-      "animation": "none",
-      "has_consume_particles": false,
-      "sound": {"sound_id": "minecraft:item.book.page_turn", "range": 0}
-    },
-    "minecraft:tooltip_display": {
-      "hidden_components": [
-        "minecraft:written_book_content"
-      ]
-    },
-    "minecraft:custom_data": {
-      "readable": {}
-    },
-    "minecraft:written_book_content": {
-      "pages": [
-          [{"text":"no enchantment on this book was recognized by the readable books datapack","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the datapack is not compatible with this enchantment","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" sorry","font": "minecraft:alt"}, {"text":"!","font": "minecraft:default"}, {"text":" here","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" have an easter egg","font": "minecraft:alt"}, {"text":":","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"[","font": "minecraft:default"}, {"text":"insert  u","font": "minecraft:alt"}, {"text":"+","font": "minecraft:default"}, {"text":"","font": "minecraft:alt"}, {"text":"1","font": "minecraft:default"}, {"text":"f","font": "minecraft:alt"}, {"text":"9","font": "minecraft:default"}, {"text":"","font": "minecraft:alt"}, {"text":"5","font": "minecraft:default"}, {"text":"a emoji","font": "minecraft:alt"}, {"text":"]","font": "minecraft:default"}]],
-      "title": "Enchanted Book",
-      "author": "Nᒷ∷↸𝙹_3000",
-      "generation": 3
-    }
-  }
+  "function": "minecraft:set_written_book_pages",
+  "pages": [
+    [
+{"text":"no enchantment on this book was recognized by the readable books datapack","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" the datapack is not compatible with this enchantment","font": "minecraft:alt"}, {"text":".","font": "minecraft:default"}, {"text":" sorry","font": "minecraft:alt"}, {"text":"!","font": "minecraft:default"}, {"text":" here","font": "minecraft:alt"}, {"text":",","font": "minecraft:default"}, {"text":" have an easter egg","font": "minecraft:alt"}, {"text":":","font": "minecraft:default"}, {"text":" ","font": "minecraft:alt"}, {"text":"[","font": "minecraft:default"}, {"text":"insert  u","font": "minecraft:alt"}, {"text":"+","font": "minecraft:default"}, {"text":"","font": "minecraft:alt"}, {"text":"1","font": "minecraft:default"}, {"text":"f","font": "minecraft:alt"}, {"text":"9","font": "minecraft:default"}, {"text":"","font": "minecraft:alt"}, {"text":"5","font": "minecraft:default"}, {"text":"a emoji","font": "minecraft:alt"}, {"text":"]","font": "minecraft:default"}]
+  ],
+  "mode": "append"
 }
