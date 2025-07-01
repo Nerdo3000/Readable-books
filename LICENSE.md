@@ -1,5 +1,5 @@
 # Readable Enchanted Books
-This License describes how the Readable Enchanted Books DataPack may (and, conversely, may not) be used. This License is subject to change by Nerdo3000 at their SOLE DISCRETION at any time. This License was last edited Juli 1st, 2025.
+This License describes how the Readable Enchanted Books DataPack may (and, conversely, may not) be used. This License is subject to change by Nerdo3000 at their SOLE DISCRETION at any time. This License was last edited July 1st, 2025.
 
 
 PERMITTED USES
