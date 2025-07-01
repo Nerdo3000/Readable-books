@@ -129,7 +129,7 @@ for file_name in todo_files:
     file_handle.close()
 """
 
-"""
+
 for i in range(30):
     substring = input("Next\n").lower()
 
@@ -177,8 +177,8 @@ for i in range(30):
     print(new_string)
     print()
     print()
-"""
 
+"""
 for file_name in todo_files:
     file_handle = open(file_name, "r")
     contents = file_handle.readlines()
@@ -242,3 +242,4 @@ for file_name in todo_files:
     file_handle = open(file_name, "w")
 
     file_handle.writelines(contents)
+"""
