@@ -1,3 +1,4 @@
+execute as @s unless items entity @s inventory.* minecraft:written_book[minecraft:custom_data~{readable:true}] unless items entity @s hotbar.* minecraft:written_book[minecraft:custom_data~{readable:true}] unless items entity @s weapon.offhand minecraft:written_book[minecraft:custom_data~{readable:true}] run return fail
 execute as @s if items entity @s inventory.0 minecraft:written_book[minecraft:custom_data~{readable:true}] run function readable_books:enchant_slot {n:0, slot:"inventory"}
 execute as @s if items entity @s inventory.1 minecraft:written_book[minecraft:custom_data~{readable:true}] run function readable_books:enchant_slot {n:1, slot:"inventory"}
 execute as @s if items entity @s inventory.2 minecraft:written_book[minecraft:custom_data~{readable:true}] run function readable_books:enchant_slot {n:2, slot:"inventory"}

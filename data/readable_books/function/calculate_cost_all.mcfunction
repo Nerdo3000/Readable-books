@@ -1,4 +1,4 @@
-#execute as @s unless items entity @s inventory.* *[minecraft:custom_data~{cost:-1b}] unless items entity @s hotbar.* *[minecraft:custom_data~{cost:-1b}] unless items entity @s weapon.offhand *[minecraft:custom_data~{cost:-1b}] run return fail
+execute as @s unless items entity @s inventory.* *[minecraft:custom_data~{cost:-1b}] unless items entity @s hotbar.* *[minecraft:custom_data~{cost:-1b}] unless items entity @s weapon.offhand *[minecraft:custom_data~{cost:-1b}] run return fail
 execute as @s if items entity @s inventory.0 *[minecraft:custom_data~{cost:-1b}] run function readable_books:calculate_cost_slot {n:0, slot:"inventory"}
 execute as @s if items entity @s inventory.1 *[minecraft:custom_data~{cost:-1b}] run function readable_books:calculate_cost_slot {n:1, slot:"inventory"}
 execute as @s if items entity @s inventory.2 *[minecraft:custom_data~{cost:-1b}] run function readable_books:calculate_cost_slot {n:2, slot:"inventory"}
@@ -40,5 +40,3 @@ execute as @s if items entity @s hotbar.8 *[minecraft:custom_data~{cost:-1b}] ru
 execute as @s if items entity @s weapon.offhand *[minecraft:custom_data~{cost:-1b}] run function readable_books:calculate_cost_slot {n:"offhand", slot:"weapon"}
 
 execute as @s if items entity @s player.cursor *[minecraft:custom_data~{cost:-1b}] run function readable_books:calculate_cost_slot {n:"cursor", slot:"player"}
-
-#/data get entity Nerdo_3000 SelectedItem

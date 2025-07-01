@@ -1,4 +1,5 @@
-execute as @s if items entity @s inventory.0 minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true},!minecraft:custom_data~{readable:true}] run function readable_books:make_readable_slot {n:0, slot:"inventory"}
+execute as @s unless items entity @s inventory.* minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] unless items entity @s hotbar.* minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] unless items entity @s weapon.offhand minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] unless items entity @s player.cursor minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] run return fail
+execute as @s if items entity @s inventory.0 minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] run function readable_books:make_readable_slot {n:0, slot:"inventory"}
 execute as @s if items entity @s inventory.1 minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] run function readable_books:make_readable_slot {n:1, slot:"inventory"}
 execute as @s if items entity @s inventory.2 minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] run function readable_books:make_readable_slot {n:2, slot:"inventory"}
 execute as @s if items entity @s inventory.3 minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] run function readable_books:make_readable_slot {n:3, slot:"inventory"}
@@ -39,5 +40,3 @@ execute as @s if items entity @s hotbar.8 minecraft:enchanted_book[!minecraft:cu
 execute as @s if items entity @s weapon.offhand minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] run function readable_books:make_readable_slot {n:"offhand", slot:"weapon"}
 
 execute as @s if items entity @s player.cursor minecraft:enchanted_book[!minecraft:custom_data~{readable:false},!minecraft:custom_data~{readable:true}] run function readable_books:make_readable_slot {n:"cursor", slot:"player"}
-
-#execute as @s if items entity @s hotbar.0 minecraft:enchanted_book[minecraft:custom_data~{cost:0}]

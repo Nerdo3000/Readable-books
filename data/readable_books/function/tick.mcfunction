@@ -1,4 +1,3 @@
-
 scoreboard players reset @a readable_books.distance_from_start
 execute as @a run function readable_books:enchant_all
 execute as @a unless score @s readable_books.block_use_action matches 1 run function readable_books:make_readable_all
