@@ -86,4 +86,7 @@ $execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[
 
 $execute as @s if items entity @s $(slot).$(n) *[minecraft:stored_enchantments~[{"enchantments":"minecraft:wind_burst"}]] run item modify entity @s $(slot).$(n) readable_books:readable/wind_burst
 
-$execute as @s if items entity @s $(slot).$(n) *[minecraft:written_book_content~{pages:{}}] run item modify entity @s $(slot).$(n) readable_books:readable/readable_unknown
+$execute as @s if items entity @s $(slot).$(n) *[minecraft:written_book_content={author:"Nᒷ∷↸𝙹_3000",title:{raw:"Enchanted Book"},generation:3}] run item modify entity @s $(slot).$(n) readable_books:readable/readable_unknown
+
+#$execute as @s if items entity @s $(slot).$(n) *[minecraft:written_book_content={pages:{}}] run item modify entity @s $(slot).$(n) readable_books:readable/readable_unknown
+#/execute if items entity Nerdo_3000 weapon.mainhand *[minecraft:written_book_content={author:"Nᒷ∷↸𝙹_3000",title:{raw:"Enchanted Book"},generation:3}]

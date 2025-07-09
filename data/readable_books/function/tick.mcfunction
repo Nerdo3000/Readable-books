@@ -25,3 +25,5 @@ execute as @a store result score @s readable_books.current_slot run data get ent
 
 execute unless data storage readable_books:settings debug run data modify storage readable_books:settings debug set value 0
 execute unless data storage readable_books:settings craft_copy run data modify storage readable_books:settings craft_copy set value 1
+
+execute as @a run function readable_books:remove_book
